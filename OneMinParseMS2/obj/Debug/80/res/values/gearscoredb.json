@@ -1,0 +1,63 @@
+﻿{
+  "data": [
+    {
+      "Cape": 
+        {
+          "ItemId": "Lv 50 Exceptional Cape",
+          "ItemLv": 50,
+          "ItemType": "Cape",
+          "ItemTeir": "Exceptional",
+          "ItemGearScore": 102,
+          "GSMulti": 0
+        },
+        {
+          "ItemId": "Lv 50 Epic Cape",
+          "ItemLv": 50,
+          "ItemType": "Cape",
+          "ItemTeir": "Epic",
+          "ItemGearScore": 229,
+          "GSMulti": 0
+        },
+        {
+          "ItemId": "Lv 50 Legendary Cape",
+          "ItemLv": 50,
+          "ItemType": "Cape",
+          "ItemTeir": "Legendary",
+          "ItemGearScore": 494,
+          "GSMulti": 0
+        },
+        {
+          "ItemId": "Lv 60 Epic Adventurer",
+          "ItemLv": 50,
+          "ItemType": "Cape",
+          "ItemTeir": "Epic",
+          "ItemGearScore": 229,
+          "GSMulti": 0
+        },
+        {
+          "ItemId": "Lv 60 Epic Cape",
+          "ItemLv": 60,
+          "ItemType": "Cape",
+          "ItemTeir": "Epic",
+          "ItemGearScore": 625,
+          "GSMulti": 0
+        },
+        {
+          "ItemId": "Lv 60 Legendary Cape",
+          "ItemLv": 60,
+          "ItemType": "Cape",
+          "ItemTeir": "Legendary",
+          "ItemGearScore": 1345,
+          "GSMulti": 0
+        },
+        {
+          "ItemId": "Lv 60 Ascendant Cape",
+          "ItemLv": 60,
+          "ItemType": "Cape",
+          "ItemTeir": "Ascendant",
+          "ItemGearScore": 2130,
+          "GSMulti": 0
+        }
+    }
+  ]
+}

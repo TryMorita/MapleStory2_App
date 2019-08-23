@@ -5,7 +5,6 @@
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
 	>
-	
 	<TextView
 		android:text="0"
 		android:textSize="50sp"
@@ -26,5 +25,22 @@
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:id="@+id/btnDecrement" />
-
+	<TextView
+		android:text="Current Gear Score"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/txtGearScore" />
+	<TextView
+		android:text="Select Item"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/txtSelectItem" />
+	<Spinner
+		android:entries="@array/dropdown_arrays"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/spinner1" />
+	
 </LinearLayout>

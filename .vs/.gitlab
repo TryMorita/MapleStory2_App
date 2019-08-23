@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2047082,
+    "Username": "dmorita1",
+    "Name": "Declan Morita",
+    "Email": "declan.morita@wsu.edu",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/7398f2075f9fdbea804521f327634005?s=80&d=identicon",
+    "PrivateToken": "a5c59fd35d6cb31ac824983752b998acaabfe9b80acfa4784e97b8b4ef81e158",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

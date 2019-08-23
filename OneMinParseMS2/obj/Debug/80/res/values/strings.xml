@@ -1,1 +1,1 @@
-<resources><string name="app_name">OneMinParseMS2</string><string name="action_settings">Settings</string></resources>
+<resources><string name="app_name">OneMinParseMS2</string><string name="action_settings">Settings</string><string-array name="dropdown_arrays"><item>Lv 50 Exceptional</item><item>Lv 50 Epic</item><item>Lv 50 Legenary</item><item>Lv 60 Epic</item><item>Lv 60 Legendary</item><item>Lv 60 Ascendant</item></string-array></resources>
